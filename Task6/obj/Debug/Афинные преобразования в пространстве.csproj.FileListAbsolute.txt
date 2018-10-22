@@ -1,0 +1,29 @@
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Задание 9.exe.config
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Задание 9.exe
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Задание 9.pdb
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Афинные преобразования в пространстве.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\ex9.Form1.resources
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\ex9.Properties.Resources.resources
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Афинные преобразования в пространстве.csproj.GenerateResource.Cache
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Задание 9.exe
+D:\YandexDisk\Документы\Универ\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Задание 9.pdb
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Task6.exe.config
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Task6.exe
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\bin\Debug\Task6.pdb
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\task6.Form1.resources
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Task6.exe
+C:\Users\ПК\Desktop\мехмат\Графика\4.1. Компьютерная графика\Задание 9\Задание 9\obj\Debug\Task6.pdb
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\task6.Form1.resources
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\ПК\Desktop\mech\Graphics\Task6\Task6\obj\Debug\Task6.pdb

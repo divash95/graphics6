@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Афинные преобразования в пространстве", "Task6\Афинные преобразования в пространстве.csproj", "{E23BCF1D-460B-4F0D-B4E4-BE1ABB5A499D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23BCF1D-460B-4F0D-B4E4-BE1ABB5A499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23BCF1D-460B-4F0D-B4E4-BE1ABB5A499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23BCF1D-460B-4F0D-B4E4-BE1ABB5A499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23BCF1D-460B-4F0D-B4E4-BE1ABB5A499D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
